@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<h1 align="center">Hi 👋, I'm Peem</h1>
-<h3 align="center">Junior year Student at Computer Science that start to code 😈</h3>
-<img align="right" alt="arise" width"400" src="https://tenor.com/bYptA.gif">
+<h1 align="left">Anmyeonghaseyo, Peem imnida /ᐠ｡ꞈ｡ᐟ\</h1>
+<h3 align="left">Junior year Student at Computer Science that start to code 😈</h3>
+<img align="right" alt="arise" width"400" src="https://user-images.githubusercontent.com/123292030/227737074-0990bbdc-9e31-484e-9b14-b864dee517a3.gif">
 
 - 🔭 I’m currently working on **CSC105**
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **pipatpol.jira@kmutt.ac.th**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
