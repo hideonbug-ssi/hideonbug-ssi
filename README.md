@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 <h1 align="left">Annyeonghaseyo, Peem imnida /ᐠ｡ꞈ｡ᐟ\</h1>
 <h3 align="left">Junior year Student at Computer Science that start to code 😈</h3>
-<img align="right" alt="arise" width"400" src="https://user-images.githubusercontent.com/123292030/227737074-0990bbdc-9e31-484e-9b14-b864dee517a3.gif">
+<img align="right" alt="arise" width"200" src="https://user-images.githubusercontent.com/123292030/227737074-0990bbdc-9e31-484e-9b14-b864dee517a3.gif">
 
 - 🔭 I’m currently working on **CSC105**
 
