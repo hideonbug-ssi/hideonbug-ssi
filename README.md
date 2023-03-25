@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 <h1 align="center">Hi 👋, I'm Peem</h1>
 <h3 align="center">Junior year Student at Computer Science that start to code 😈</h3>
-<img align="right" alt="arise" src="https://tenor.com/bYptA.gif">
+<img align="right" alt="arise" width"400" src="https://tenor.com/bYptA.gif">
 
 - 🔭 I’m currently working on **CSC105**
 
