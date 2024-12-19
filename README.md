@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **summer internship**
 
-- 🤝 I’m looking for help with **Full stack development**
+- 🤝 I’m looking for help with **Backend development and Data Science related**
 
 - 📫 How to reach me **pipatpol.jira@kmutt.ac.th**
 
