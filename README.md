@@ -9,7 +9,7 @@
   <a href="./certificates/README.md">Certificate log</a>
 </p>
 
-I build Go microservices and APIs, integrate services, and develop conversational AI features. I also design agent workflows and evaluate LLM outputs.
+I build microservices and APIs, integrate services, and develop conversational AI features. I also design agent workflows and evaluate LLM outputs.
 
 B.Sc. in Computer Science, KMUTT · Second Class Honours
 
